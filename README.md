@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 Java 基础、数据结构、Linux、Spring、Mybatis，持续输出ing
 - 🤔 Website：https://awhao.com
 - 🌈 BiliBili：https://space.bilibili.com/19438904
-- 😄 Blog: https://blog.awhao.com
+- 😄 Blog：https://blog.awhao.com

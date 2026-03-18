@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 热爱 coding 的JAVA工程师一枚，欢迎关注~
-- 🌱 Java 基础、数据结构、Linux、Spring、Mybatis，持续输出ing
+- 🌱 Java、数据结构、Linux、Spring、Mybatis，持续输出ing
 - 🤔 Website：https://www.awhao.com
 - 🌈 BiliBili：https://space.bilibili.com/19438904
 - 📫 Mail：[wanghao@awhao.com](mailto:wanghao@awhao.com)
